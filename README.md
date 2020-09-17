@@ -1,1 +1,1 @@
-# nazigul/Data-Intro-2020-course
+# Data-Intro-2020-course
